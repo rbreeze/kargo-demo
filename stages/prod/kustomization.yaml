@@ -15,4 +15,5 @@ patches:
     name: kargo-demo
 images:
 - name: nginx
-  newTag: 1.27.0
+  newName: nginx
+  newTag: 1.25.2
