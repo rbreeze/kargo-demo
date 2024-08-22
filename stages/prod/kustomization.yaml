@@ -18,4 +18,4 @@ images:
   newName: nginx
   newTag: 1.25.2
 - name: public.ecr.aws/nginx/nginx
-  newTag: 1.27.0
+  newTag: 1.27.1
